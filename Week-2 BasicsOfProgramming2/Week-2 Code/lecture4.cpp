@@ -1,3 +1,4 @@
+// PATTERN CONTINUES
 #include <iostream>
 using namespace std;
 
