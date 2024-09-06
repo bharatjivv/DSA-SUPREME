@@ -1,0 +1,22 @@
+Homework +Class Problems - 
+
+1. Add two numbers
+2. Find circumference of a circle
+3. Find Area of circle
+4. Average of three number
+5. Check a number is Even or Odd
+6. Student and Grade
+7. Check number is +,- or 0
+8. Sum of n numbers
+9. Print all odd number from 1 to n
+10. Print all even number from 1 to n
+11. Is number is prime or not?
+12. Print all prime in [a ,b]
+13. Find simple interest
+14. Find factorial
+15. Is number is armstrong or not ?
+16. Print max of three numbers given
+17. Find average of n numbers
+18. Is number(n) is divisible by m
+19. Print Counting till 1 to n
+20. Print all digit of a number
