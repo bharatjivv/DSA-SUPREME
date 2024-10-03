@@ -121,6 +121,10 @@ Node* findNodeinBST(Node* root, int target) {
 		return NULL;
 	}
 
+	if(root == target){
+		return root;
+	}
+	
 	if(root-> data > target) {
 		return findNodeinBST(root-> left, target);
 	}
